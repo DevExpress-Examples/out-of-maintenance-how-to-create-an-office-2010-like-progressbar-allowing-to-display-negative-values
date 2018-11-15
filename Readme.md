@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/Class1.cs) (VB: [Class1.vb](./VB/Class1.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # How to create an Office 2010-like ProgressBar allowing to display negative values
 
 
